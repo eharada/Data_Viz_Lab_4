@@ -20,8 +20,8 @@ Disadvantage: It would be better to see the average salary for any analyst posit
 
 ![image](https://user-images.githubusercontent.com/32119820/31509091-15ea3a5c-af35-11e7-9846-21d6bc60f0c9.png)
 
-SCU is ranked in the top 10 list out of 55 colleges in California. This shows how SCU is a credible school and is pretty close to well-known schools such as Cal (Berkeley) or UCLA.<br/>
-Advantage: This is a small list that show you what each school's rankings are. It's easy for the reader to find SCU in the list. <br/>
+SCU is ranked top 10 out of 55 colleges in California. This shows how SCU is a credible school and is pretty close to well-known schools such as Cal (Berkeley) or UCLA.<br/>
+Advantage: This is a small list that shows you what each school's rankings are. It's easy for the reader to find SCU in the list. <br/>
 Disadvantage: It would be better to see how SCU ranks out of all US colleges and maybe even to compare them against other private universities. Prospective students may be opened to any college in the United States, so they'll want more information. 
 <br/><br/>
 
