@@ -6,7 +6,6 @@ All of my data came from the following websites: <br/>
 Indeed.com <br/>
 LinkedIn.com <br/>
 Patch.com <br/>
-</br>
 
 ## First Visual: How Data Analyst salaries compare across companies?
 
