@@ -30,5 +30,5 @@ Disadvantage: It would be better to see how SCU ranks out of all US colleges and
 ![image](https://user-images.githubusercontent.com/32119820/31509196-80dfde48-af35-11e7-83c4-de6f68a4edd4.png)
 
 The majority of MSIS graduates learn highly sought after technical skills such as SQL, Java and Data Analysis. This is attractive to recruiters as they can see that MSIS students have the skills that their companies are looking for. Recruiters can focus their attention on hiring MSIS students for technical roles. <br/>
-Advantage: This chart shows the order of the skills that most people have to the skills that only a handle has. This chart is in line with the curriculum that MSIS students will have. <br/>
+Advantage: This chart shows the order of the skills that most people have. This chart is in line with the curriculum that MSIS students will go through. <br/>
 Disadvantage: It would be nice to see the skills that recruiters are searching for and compare that against this chart. With that data, we would be able to see how many skills a MSIS student will possess and how many skills they will have to learn on their own.
